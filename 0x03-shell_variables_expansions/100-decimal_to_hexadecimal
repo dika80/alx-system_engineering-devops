@@ -1,0 +1,4 @@
+#!/bin/bash
+printf '%x\n'  >> 100-decimal_to_hexadecimal
+cat 
+echo printf %x\n
